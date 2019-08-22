@@ -1,0 +1,32 @@
+    1  ceevarouqa
+    2  hhjj
+    3  pwd
+    4  ls
+    5  ls -la
+    6  cd ..
+    7  ls -la
+    8  ls ./mnt/
+    9  ls ./mnt/d
+   10  cd ./mnt/d
+   11  ls -l
+   12  mkdir IU/OS
+   13  mkdir IU
+   14  cd ./IU
+   15  mkdir ./OS
+   16  cd ./OS
+   17  mkdir ./week1
+   18  cd ./week1/
+   19  ls /usr/bin
+   20  ls /usr/bin | grep gcc
+   21  gcc
+   22  apt install gcc
+   23  apt-get update
+   24  apt install gcc
+   25  ls /usr/bin | grep gcc
+   26  ls /usr/bin | grep gcc | sort -r
+   27  ls /usr/bin | grep gcc | sort
+   28  ls /usr/bin | grep gcc | sort -r > ex1.txt
+   29  cat ./ex1.txt 
+   30  tac ./ex1.txt 
+   31  history
+   32  history > ex2.txt
