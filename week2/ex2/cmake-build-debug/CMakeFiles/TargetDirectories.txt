@@ -1,3 +1,0 @@
-D:/IU/OS/week2/ex2/cmake-build-debug/CMakeFiles/ex2.dir
-D:/IU/OS/week2/ex2/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/IU/OS/week2/ex2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
