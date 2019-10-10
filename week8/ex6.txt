@@ -1,0 +1,6 @@
+8KB = 1024 * 8 = 2^13 bytes
+Offset = 13
+
+There is 16-bit virtual addresses, 13 are for offset
+16 - 13 = 3
+So, only 3 bits left for pages and 2^3 = 8 entries are needed
