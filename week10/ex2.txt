@@ -1,0 +1,10 @@
+Command 1:
+~/os/Labs/os/week10# ln ../week1/file.txt _ex2.txt
+
+Command 2:
+~/os/Labs/os/week1# find .. -inum 75716768735208417
+../week1/file.txt
+../week10/_ex2.txt
+
+Command 3:
+~/os/Labs/os/week1# find .. -inum 75716768735208417 -exec rm {} \;
